@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\lkq\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lkq\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lkq\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(419): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lkq\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(765): warning C4101: “j”: 未引用的局部变量
+c:\users\lkq\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(151): warning C4715: “priority”: 不是所有的控件路径都返回值
+c:\users\lkq\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(542): warning C4715: “findSetNum”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> C:\Users\lkq\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
